@@ -1,0 +1,19 @@
+{
+    "name": "antonkuzmichev/data-validator",
+    "description": "A simple PHP package for data validation.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "AntonKuzmicev\\DataValidator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anton Kuzmichev",
+            "email": "kuzm.anton@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4.0"
+    }
+}
