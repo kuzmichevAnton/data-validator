@@ -1,6 +1,7 @@
 {
     "name": "antonkuzmichev/data-validator",
     "description": "A simple PHP package for data validation.",
+    "version": "1.0.0",
     "type": "library",
     "autoload": {
         "psr-4": {
